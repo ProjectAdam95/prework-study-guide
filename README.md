@@ -2,7 +2,7 @@
 
 ## Description
 
-A pre-work study guide to those starting out in the coding bootcamp. There are notes on HTML, CSS , Java and Git.
+A pre-work study guide to those starting out in their coding journey. There are notes on HTML, CSS , Java and Git.
 
 ## Installation
 
